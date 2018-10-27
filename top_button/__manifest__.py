@@ -9,6 +9,7 @@
     'depends': ['website'],
     'company': "Akil Systems Pvt. Ltd.",
     'author': "Akil Systems Pvt. Ltd.",
+    'license': "AGPL-3",
     'website': "http://www.akilisystems.in/",
     'data': [
         'view/assets_frontend.xml',

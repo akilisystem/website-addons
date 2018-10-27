@@ -9,6 +9,7 @@
     'website': "http://www.akilisystems.in/",
     'category': 'Website',
     'depends': ['website_sale'],
+    'license': "AGPL-3",
     'version': '10.0.1.0.0',
     'data': [
         'views/assets.xml',  

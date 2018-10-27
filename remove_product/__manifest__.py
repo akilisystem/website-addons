@@ -10,6 +10,7 @@
     'description': """This module has the functionality of remove button in the cart.""",   
     'company': 'Akili Systems Pvt. LTD.',
     'website': 'http://www.akilisystems.com',
+    'license': "AGPL-3",
     'data': [ 
         'views/templates.xml'
         ],

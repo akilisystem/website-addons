@@ -1,4 +1,4 @@
-odoo.define('terms_condition_akili.terms_condition_akili', function (require) {
+odoo.define('terms_conditionadd_medicines.terms_conditionadd_medicines', function (require) {
 "use strict";
     var ajax = require('web.ajax');
 

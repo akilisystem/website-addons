@@ -1,4 +1,4 @@
-odoo.define('webtop_button_akili.scroll_totop', function (require) {
+odoo.define('webtop_buttonadd_medicines.scroll_totop', function (require) {
 'use strict';
 
 	var core = require('web.core');
