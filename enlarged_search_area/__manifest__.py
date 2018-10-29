@@ -7,7 +7,6 @@
     'category': 'Website',
     'depends': ['website_sale']
     'company': 'Akili Systems Pvt. Ltd.',
-    'license':'OPL-1',
     'author': 'Akili Systems Pvt Ltd',
     'website': 'http://www.akilisystems.in',
     'license': "AGPL-3",
